@@ -10,7 +10,6 @@ This repository contains a data analysis project implemented in Python. The proj
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
