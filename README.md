@@ -19,7 +19,7 @@ In this data analysis project, we analyze a dataset to gain insights and answer 
 
 Before running this project, make sure you have the following prerequisites installed on your system:
 
-- Python 3.x: The project is implemented in Python, so you need to have Python installed. You can download Python from the official website: [Python.org](https://www.python.org/)
+- Python 3.x: The project is implemented in Python, so you need to have Python installed. You can download Python from the official website: [Python.org](http://www.python.org/doc/)
 
 ## Installation
 
@@ -28,7 +28,7 @@ To use this project, you can either clone the repository or download the ZIP fil
 To clone the repository, open a terminal and run the following command:
 
 ```
-git clone https://github.com/your-username/data-analysis-project.git
+git clone https://github.com/shailesh2210/Data-Analysis.git
 ```
 
 ## Usage
@@ -66,7 +66,7 @@ data-analysis-project/
 
 - The `data` directory contains the dataset (`dataset.csv`) that will be used for analysis.
 
-- The `notebooks` directory contains the Jupyter Notebook (`data_analysis.ipynb`) where the data analysis is performed.
+- The `notebooks` directory contains the Jupyter Notebook (`ipynb`) where the data analysis is performed.
 
 - The `README.md` file provides an overview of the project and instructions on how to use it.
 
@@ -75,6 +75,8 @@ data-analysis-project/
 
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to open an issue or submit a pull request.
 
-## License
+## Author 
+#### [Shailesh Gaddam](https://github.com/shailesh2210)
+## Follow me
+#### [Github](https://github.com/shailesh2210) | [Linkedin](https://www.linkedin.com/in/shailesh-gaddam-262988218/)
 
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and use it as per your requirements.
